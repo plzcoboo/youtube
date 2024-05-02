@@ -1,0 +1,40 @@
+.side-bar {
+    position: fixed;
+    top: 55px;
+    background: #0F0F0F;
+    height: 500px;
+    width: 64px;
+    color: #fff;
+    height: 100%;
+}
+
+.side-bar .aside-iconbox {
+    padding: 16px 0 14px 0;
+    color: #fff;
+    width: 64px;
+}
+.side-bar .aside-iconbox:hover {
+    background:  #303030;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.side-bar .aside-iconbox a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.side-bar .aside-iconbox p {
+    margin-top: 10px;
+    width: fit-content;
+    font-size: 12px;
+}
+
+.side-bar .aside-iconbox i {
+    font-size: 24px;
+}
+
+.side-bar .aside-iconbox img {
+    width: 24px;
+}
