@@ -5,11 +5,11 @@
 |----------|
 <img src="./main.png">
 
-- 배포 URL : 
+- 배포 URL : https://plzcoboo.github.io/youtube/
 
 ## 프로젝트 소개
 
-- 학습 목적 HTML/CSS/JS 통한 퍼블리싱 
+- 학습 목적 HTML/CSS 통한 퍼블리싱 
 - 유투브 클론 코딩 및 반응형 작업
 
 
